@@ -1,4 +1,5 @@
-# digit-recognizer-mnist
+# Digit Recognizer MNIST
+
 This is a digit recognizer we had made for an IBM course. We used the MNIST dataset to train our ML model using tensorflow in python.
 Apart from this, we also created a GUI implementation which allows us to predict digits in real-time. We can draw and the ML model will predict the digit we have drawn.
 
